@@ -18,22 +18,7 @@ I am a Junior QA Tester with hands-on experience in manual testing, test case de
 - Test Plans
 - Sample Projects
 
-Test-Cases/README.md
 
-  #Test Cases
-This folder contains manual test cases.
-
-
-Bug-Reports/README.md
-  
-#Bug Reports
-This folder contains sample bug reports.
-
-
-Test-Plans/README.md
-  
-  #Test Plans
-This folder contains test plans.
 
 
  
