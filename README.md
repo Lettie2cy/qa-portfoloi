@@ -18,6 +18,15 @@ I am a Junior QA Tester with hands-on experience in manual testing, test case de
 - Test Plans
 - Sample Projects
 
+Test-Cases/README.md
+#Test Cases
+This folder contains manual test cases.
+
+
+ 
+
+
+
 ## Contact
 - Email: lettiecy1@gmail.com
 
